@@ -1,0 +1,766 @@
+Metals & Metal Matrix Composite Technology
+
+Ceramics, Ceramic Matrix Composite and Glass Technologies
+
+Polymers and Polymer Matrix Composite Technologies
+
+Structural Materials Processing - Joining Technology
+
+Structural Materials Processing - Surface Protection Technologies
+
+Non-Destructive Evaluation & Life Extension of Structural Materials
+
+Corrosion and Wear Control Technology
+
+Structural Mechanics
+
+Structural Materials - Forming
+
+Structural Materials - Materials Removal
+
+Smart/Functional Materials for Structural Uses
+
+Nanomaterial Technologies
+
+Structural Materials - Additive Manufacturing
+
+Polymer and Polymer Matrix Ablative Composite Technologies
+
+Manufacturing Processes of Ablative Composite Materials - Production and Application Technology
+
+Structural Metamaterials
+
+SIGNATURE RELATED MATERIALS
+
+Acoustic & Vibration Absorbing Materials
+
+IR Signature Control Materials
+
+Radar Absorbing Materials and Coatings
+
+Structural Radar Absorbing Materials
+
+ELECTRONIC MATERIALS TECHNOLOGY
+
+Silicon-based Materials
+
+III-V Compounds
+
+Other Semiconducting Materials
+
+Insulating & Dielectric Materials
+
+Carbon-based Materials
+
+Superconducting Materials
+
+Magnetic Materials
+
+PHOTONIC/OPTICAL MATERIALS & DEVICE TECHNOLOGY
+
+Optical Components & Devices
+
+IR/Visible/UV Detector Materials & Devices
+
+Non-Linear Optical Materials & Devices
+
+Display Materials & Devices
+
+Lasers and Laser Components
+
+Non-Laser Devices
+
+Photonic/Optical Material
+
+ELECTRONIC, ELECTRICAL & ELECTROMECHANICAL DEVICE TECHNOLOGY
+
+Device Concepts and Fabrication
+
+Device Packaging
+
+Device Integration/Reliability
+
+Electrical Batteries and Capacitors
+
+Electrical Fuel Cells
+
+Solar Panels
+
+RF Power Amplifiers & Devices
+
+Acoustic Power Amplifiers & Devices
+
+Other Electrical Power Sources & Devices
+
+Electric Motors
+
+Inertial/Gravitational Devices
+
+Devices and electromechanical Structures
+
+RF/Microwave Components Technologies
+
+RF/Microwave Device Technologies
+
+Antenna Technologies
+
+Electronic Component Technologies
+
+Connectors, Cable and Cabling Technologies
+
+Acoustic Device Technologies
+
+ENERGETIC MATERIALS AND PLASMA TECHNOLOGY
+
+Propellants
+
+Conventional Fuels
+
+Explosives
+
+Pyrotechnic Systems
+
+Plasma Techniques
+
+Explosives Detection Techniques
+
+CHEMICAL, BIOLOGICAL & MEDICAL MATERIALS
+
+Chemical Agent Defence, Precursors & Related Materials
+ 
+Biological Agent Defence, Precursors & Related Materials
+
+Mid-Spectrum Agent Defence
+
+Chemical & Biological Detection Techniques
+
+Research for non-CBD Applications
+
+Medical Products and Materials
+
+COMPUTING TECHNOLOGIES & MATHEMATICAL TECHNIQUES
+
+Software Engineering
+
+Protocol Technology
+
+COTS Software Assessment
+
+Architectures
+
+High Integrity and Safety Critical Computing
+
+Secure Computing Techniques
+
+Encryption / Crypto Technologies
+
+Mathematical Modeling Development
+
+OA Tools and Techniques
+
+Software Verification, Validation and Accreditation Techniques
+
+High Performance Computing
+
+INFORMATION AND SIGNAL PROCESSING TECHNOLOGY
+
+Data & Information Management Technology
+
+Digital Signal Processing Technology
+
+Optical Signal Processing Technology
+
+Image/Pattern Processing Technology
+
+Speech & Natural Language Processing Technology
+
+Optimisation & Decision Support Technology
+
+Information & Data Fusion Technology
+
+Other Information Processing Technology
+
+HUMAN SCIENCES
+
+Human Information Processing
+
+Military Human Resources
+
+Teams, Organisations & Cultures
+
+Human Survivability, Protection & Stress Effects
+
+Individual & Team Training
+
+Human Factors Integration
+
+Collective Training
+
+Human Performance Enhancement
+
+Surgical Techniques and Medical Procedures
+
+Human Health Physics
+
+Human Performance Monitoring Techniques
+
+Human Factors in Manufacturing
+
+OPERATING ENVIRONMENT TECHNOLOGY
+
+Oceanography
+
+Terrain Science
+
+Meteorology
+
+Upper Atmosphere & Space Environment
+
+Acoustic Propagation in Air & Water
+
+Electromagnetic Propagation in Air & Water
+
+MECHANICAL, THERMAL & FLUID- RELATED TECHNOLOGIES & DEVICES
+
+Mechanical/Hydraulic/ Pneumatic Technologies & Devices
+
+Lubrication Technology
+
+Thermal & Thermodynamic Technologies & Devices
+
+Fluid Mechanics - Phenomenological & Experimental
+
+Fluid Dynamics Techniques
+
+B-SYSTEMS-RELATED TECHNOLOGIES
+
+LETHALITY AND PLATFORM PROTECTION
+
+Warheads
+
+Penetrators
+
+Battle Damage Reduction Techniques
+
+Explosive Ordnance Disposal
+
+Mine Detection and Clearance
+
+Armour Systems
+
+Defensive Aids Suite Systems
+
+Other Platform Protection Measures
+
+PROPULSION AND POWERPLANTS
+
+Gas Turbines
+
+Reciprocating and Rotary IC Engines
+
+Rocket Engines and Ramjets
+
+Gun and Launch Tube Propulsion
+
+Electrical Propulsion - Rotary & Linear
+
+Transmissions and Powertrains
+
+Ion Thrusters
+
+Nuclear Propulsion
+
+Air Propellors and Rotors
+
+Final Drive - Water Propulsors
+
+Final Drive - Wheels and Tracks
+
+Hybrid Power Systems
+
+DESIGN TECHNOLOGIES FOR PLATFORMS AND WEAPONS
+
+Aerodynamic Designs
+
+Hydrodynamic Designs
+
+Structural Designs
+
+Mechanical Designs
+
+Stealth Designs
+
+Ballistic Designs
+
+Thermal/Cryogenic Designs
+
+Electrical/Electronic Designs
+
+Optical Designs
+
+Acoustic Designs
+
+Environmental Protection Designs
+
+Mechatronic Designs
+
+ELECTRONIC WARFARE AND DIRECTED ENERGY TECHNOLOGIES
+
+Directed Energy Technologies (DET) - RF
+
+Directed Energy Technologies (DET) - Lasers
+
+Directed Energy Technologies (DET) - Other
+
+ECM - Non-Communications 
+
+ESM - Electro Optical
+
+ECM - Electro Optical
+
+ECM - Magnetic and Electrical
+
+ESM - Communications
+
+ESM - Non-Communications
+
+EPM - RF
+
+EPM - Electro Optical
+
+EPM - Acoustic
+
+EPM - Magnetic and Electrical
+
+ESM - Electro-Optic
+
+ECM - Communications
+
+SIGNATURE CONTROL AND SIGNATURE REDUCTION
+
+Radar Signatures
+
+Laser Signatures
+
+IR Signatures
+
+Visible/UV Signatures
+
+Acoustic Signatures
+
+Electrical and Electrochemical Signatures
+
+Magnetic Signatures
+
+SENSOR SYSTEMS
+
+RF Sensors/Active
+
+RF Sensors/ Passive
+
+IR Sensors - Active, Laser Sources
+
+IR Sensors - Passive, Laser Sources
+
+Visible/UV Wave Sensors
+
+Acoustic Sensors - Active
+
+Acoustic Sensors - Passive
+
+Non-Acoustic Sensors - Underwater
+
+Electrical & Electrochemical Sensors
+
+Magnetic Sensors
+
+CB Sensor Systems
+
+Explosive Detection Sensors
+
+Microsensor Systems for Active Control of Structures
+
+Motion Sensor Systems
+
+Environmental Monitoring Systems
+
+GUIDANCE AND CONTROL SYSTEMS FOR WEAPONS AND PLATFORMS
+
+Navigation Systems
+
+Weapon Guidance and Control Systems
+
+Platform Guidance and Control Systems
+
+Display Systems
+
+Stores and Weapons Release/Discharge Systems
+
+SIMULATORS, TRAINERS AND SYNTHETIC ENVIRONMENTS
+
+Skills Training Systems
+
+Tactical/Crew Training Systems
+
+Command & Staff Training Systems
+
+Virtual Reality
+
+Synthetic Environments - Synthetic Force Generation
+
+Synthetic Environments - Natural Environment Generation
+
+Synthetic Environments - Management Systems
+
+INTEGRATED SYSTEMS TECHNOLOGY
+
+Systems Engineering and Integrated Systems Design
+
+Interoperability Standards
+
+Radiation Hardening
+
+Robotics and Automated systems in Operational Systems
+
+Reliability and Maintainability of Systems
+
+Health Monitoring Systems
+
+Safety Systems
+
+System Repair Technologies
+
+Electromagnetic Interference/Compatibility
+
+In-Service Data Capture Systems
+
+Integrated System Testing and Evaluation
+
+Middleware Systems
+
+COMMUNICATIONS AND CIS-RELATED TECHNOLOGIES
+
+Communications Systems - Below Microwave Frequencies
+
+Communications Systems - Micro and Millimetre Wave
+
+Communications Systems - IR/Visible/UV
+
+Communications Systems - Acoustic
+
+Communications & CIS Security SystemsCommand & Information Systems Integration
+
+Non-Co-operative Target Recognition
+
+Geographic Information System
+
+Optimisation, Planning & Decision Support Systems
+
+Infrastructure to Support Information Management & Dissemination
+
+Network Management Systems
+
+Air Traffic Control Systems
+
+Internet Of Things
+
+PERSONNEL PROTECTION SYSTEMS
+
+Physical Protection Systems - Threat
+
+Physical Protection Systems - Environment
+
+CB & N Protection Systems - Physical
+
+CB & N Countermeasures - Medical
+
+MANUFACTURING PROCESSES/ DESIGN TOOLS/ TECHNIQUES
+
+Design for Improved Reliability & Maintainability
+
+Cost Engineering
+
+Concurrent Engineering and Reduced Design Cycle
+
+Advanced Prototyping
+
+Techniques and Systems for Production Manufacturing
+
+Project Management and Control
+
+Manufacturing Process Simulation
+
+Lean Manufacturing
+
+Process Control Technology
+
+Environmentally Friendly Factory Processes
+
+Knowledge-based Engineering
+
+Advanced Manufacturing Technologies
+
+DIGITALIZATION AND INDUSTRIAL TRANSFORMATION
+
+Service Cloud Platform, Security and Privacy
+
+Big Data Analytics
+
+Modelling and Simulation Solutions
+
+Industrial Internet of Things (ioT) Platforms
+
+M2X Software and Hardware
+
+Innovative Sensors
+
+Robot, Automation, Equipment Software and Management Systems
+
+Additive Manufacturing Equipment, Software
+
+Smart Factory Systems
+
+Cyber Physical Systems
+
+CYBER SECURITY SOLUTIONS
+
+Network Security
+
+Endpoint Security
+
+Identity and Access Management (IAM)
+
+Messaging and Communication Security
+
+Data Security
+
+Cloud Computing Security
+
+Application Security
+
+Internet Security
+
+Mobile Devices Security
+
+Industrial Control Systems Security
+
+Internet of Things (IoT) Security
+
+Operating Systems and Container Security
+
+Cybersecurity for Autonomous and Smart Platforms
+
+Hardware Security
+
+Firmware Security
+
+C-SYSTEMS AND PRODUCTS
+
+DEFENCE ANALYSIS
+
+Policy, Force Development and Balance of İnvestment Studies
+
+Combined Operational Effectiveness and Investment Appraisals
+
+Platform and System Concept Studies
+
+Requirements Definition Studies
+
+Scenario Generation
+Tactical Development and Support to Operations and Training
+
+Other Effectiveness and Performance Studies
+
+Military Doctrine Analysis
+
+Wargaming and Combat Simulation
+
+INTEGRATED PLATFORMS
+
+Undersea Platforms
+
+Tanks & Armed Vehicles for Land Forces
+
+Logistics, Command and Surveillance Land Vehicles
+
+Combat Aircraft
+
+Logistics, Support and Surveillance Aircraft
+
+Helicopters
+
+Unmanned Land / Sea / Air Vehicles
+
+Lighter-than-Air Platforms
+
+Communication Satellites
+
+Surveillance and Navigation Satellites
+
+Other Satellites
+
+Space Launchers
+
+Naval Combat Sea Surface Platforms
+
+Logistic and Support Sea Surface Platforms
+
+Search and Rescue (SAR) Platforms
+
+WEAPONS & WEAPON SYSTEMS
+
+Mines – Land
+
+Missile Systems - Anti Air
+
+Missile Systems - Anti Surface (Sea)
+
+Gun Systems - Platform Mounted
+
+Gun Systems - Hand Held
+
+Directed Energy Weapons
+
+Non-Lethal Weapons
+
+Mines – Sea
+
+Missile Systems - Anti Ground (Land)
+
+Torpedoes - Anti Surface
+
+Torpedoes - Anti Submarine
+
+Gun Systems - Electromagnetic Launch 
+
+INSTALLATIONS AND FACILITIES
+
+Ground Stations
+
+Fortifications / Defences
+
+Battlefield Engineering
+
+T&E Facilities (Test and Evaluation Facilities)
+
+Site Decontamination
+
+EQUIPPED PERSONNEL
+
+Equipped Men
+
+Recruitment, Selection and Allocation
+
+Training and Education
+
+Health and Well-being
+
+MISCELLANEOUS DEFENCE FUNCTIONS AND POLICY SUPPORT
+
+International Security
+
+Non-proliferation
+
+Hazard Assessment
+
+Logistics
+
+Counter Stealth
+
+BATTLESPACE INFORMATION
+
+Information Infrastructure
+
+Information Warfare
+
+Command & Control
+
+Digitization of the battlespace
+
+ISTAR (Intelligence, Surveillance, Target Acquisition & Reconnaissance)
+
+Military Intelligence
+
+Command Control Mission Planning
+
+Command Control Flight Training Planning
+
+Command Control Operations Planning
+
+Command Control Intelligence Management
+
+Command Control Metrology Data Management
+
+Command Control Oceanography Data Management
+
+Command Control Information Management
+
+Command Control Common Image Management
+
+Command Control CBS
+
+Command Control Message Infrastructure
+
+Command Control Authorization Infrastructure
+
+Platform Command Control Software
+
+Tactical Data Link Management Systems
+
+Platform Condition Monitoring Systems
+
+Ship Data Distribution Systems
+
+Submarine Information Distribution Systems
+
+Sniper Fixing Systems
+
+Torpedo Fire Control Systems
+
+Time Distribution Systems
+
+Remote Display Units
+
+Converters (RS422, RS232, Ethernet, Synchro, 1553, ARINC etc.)
+
+Rugged Tablet PCs
+
+Space Situational Awareness
+
+BUSINESS PROCESS
+
+Requirements Capture
+
+Define Concept and Product
+
+Product Supportability
+
+Whole-Life Cycle Improvement
+
+Business Process Simulation
+
+Benchmarking and Best Practice
+
+Lean Enterprise Models
+
+Research & Technology Management
+
+Design in the Extended Enterprise
+
+Procurement and Contracting Processes
+
+CYBERSECURITY SERVICES AND OPERATIONS
+
+Cybersecurity Analytics
+
+Cyber Intelligence
+
+Cybersecurity Operations
+
+Cybersecurity Event Management
+
+Cyber Forensics
+
+Cybersecurity Risk and Compliance Management
+
+Cybersecurity Consultation and Training
